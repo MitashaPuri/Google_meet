@@ -1,0 +1,43 @@
+
+*{
+    margin:0px;
+    padding:0px;
+}
+.Big_div{
+    height:550px;
+    width:70%;
+    background-color:#202125;
+    float:left;
+}
+.box1{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-top:20px;
+    width: 32%;
+    float:left;
+    border-radius: 10px;
+    height:150px;
+    background-color:#3C4043;
+}
+.chat_box{
+    height:550px;
+    width:29%;
+    float: left;
+    background-color: grey;
+
+}
+.white_box{
+    height:470px;
+    width:75;
+    padding: 30px;
+    margin:10px;
+    border-radius: 10px;
+    background-color: white;
+}
+.hzt_section{
+   height:50px;
+   padding:20px;
+   width:97%;
+   float:left;
+   background-color:#202125; 
+}
